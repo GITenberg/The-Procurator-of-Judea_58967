@@ -1,11 +1,14 @@
 _repo: The-Procurator-of-Judea_58967
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Wooff, Michael
     alias: Wooff, Michael John
     gutenberg_agent_id: '41215'
     url: http://www.gutenberg.org/2009/agents/41215
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: France, Anatole
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/755
     wikipedia: http://en.wikipedia.org/wiki/Anatole_France
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58967#The-Procurator-of-Judea
 gutenberg_issued: '2019-02-26'
 gutenberg_type: Text
 identifiers:
